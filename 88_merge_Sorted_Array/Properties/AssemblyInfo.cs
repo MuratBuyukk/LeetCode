@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TopInterview150")]
+[assembly: AssemblyTitle("88_merge_Sorted_Array")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TopInterview150")]
+[assembly: AssemblyProduct("88_merge_Sorted_Array")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("35e423ba-11a1-4859-a706-672e3066b314")]
+[assembly: Guid("e7321541-17a4-4f5e-86f1-ba64739e4bcf")]
 
 // Version information for an assembly consists of the following four values:
 //
