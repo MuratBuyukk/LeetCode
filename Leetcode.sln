@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88_merge_Sorted_Array", "88
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TopInterview150", "TopInterview150", "{46EEABBC-A2F7-41A2-B48E-C98231972D6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_remove_duplicates_from_Sorted_array", "26_remove_duplicates_from_Sorted_array\26_remove_duplicates_from_Sorted_array.csproj", "{C8D584DA-CB0A-477D-BE64-4C009FC5AFBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{E7321541-17A4-4F5E-86F1-BA64739E4BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7321541-17A4-4F5E-86F1-BA64739E4BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7321541-17A4-4F5E-86F1-BA64739E4BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D584DA-CB0A-477D-BE64-4C009FC5AFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D584DA-CB0A-477D-BE64-4C009FC5AFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D584DA-CB0A-477D-BE64-4C009FC5AFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D584DA-CB0A-477D-BE64-4C009FC5AFBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{6BB2FD68-FB6A-4573-9FF3-1FA48E00360B} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 		{E7321541-17A4-4F5E-86F1-BA64739E4BCF} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
+		{C8D584DA-CB0A-477D-BE64-4C009FC5AFBD} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53BD87AA-5BB1-46FF-B511-D4AB3304C02A}
