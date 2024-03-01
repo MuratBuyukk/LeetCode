@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169_Majority_Element", "169
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121_BestTime_to_BuyAndSell_Stock", "121_BestTime_to_BuyAndSell_Stock\121_BestTime_to_BuyAndSell_Stock.csproj", "{E1EC995F-1068-46EE-B886-0F69032ED3BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_RomanToInteger", "13_RomanToInteger\13_RomanToInteger.csproj", "{DD2F38B0-A13D-4F9E-B5F8-66D2527FC87D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{E1EC995F-1068-46EE-B886-0F69032ED3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1EC995F-1068-46EE-B886-0F69032ED3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1EC995F-1068-46EE-B886-0F69032ED3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD2F38B0-A13D-4F9E-B5F8-66D2527FC87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2F38B0-A13D-4F9E-B5F8-66D2527FC87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2F38B0-A13D-4F9E-B5F8-66D2527FC87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2F38B0-A13D-4F9E-B5F8-66D2527FC87D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +57,7 @@ Global
 		{C8D584DA-CB0A-477D-BE64-4C009FC5AFBD} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 		{9803AEF6-3855-4096-966D-EE0A3885BD2F} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 		{E1EC995F-1068-46EE-B886-0F69032ED3BA} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
+		{DD2F38B0-A13D-4F9E-B5F8-66D2527FC87D} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53BD87AA-5BB1-46FF-B511-D4AB3304C02A}
