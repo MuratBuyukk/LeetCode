@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58_Lenght_Of_Last_Word", "5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Longest_Common_Prefix", "14_Longest_Common_Prefix\14_Longest_Common_Prefix.csproj", "{106D6E0F-2423-4CDE-AAE2-E9554D2440DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28_Find_IndexOfThe_FirstOccurence", "28_Find_IndexOfThe_FirstOccurence\28_Find_IndexOfThe_FirstOccurence.csproj", "{7A8CB6F6-B47E-4824-9081-29E369585865}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{106D6E0F-2423-4CDE-AAE2-E9554D2440DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{106D6E0F-2423-4CDE-AAE2-E9554D2440DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{106D6E0F-2423-4CDE-AAE2-E9554D2440DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A8CB6F6-B47E-4824-9081-29E369585865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8CB6F6-B47E-4824-9081-29E369585865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8CB6F6-B47E-4824-9081-29E369585865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8CB6F6-B47E-4824-9081-29E369585865}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,6 +78,7 @@ Global
 		{DD2F38B0-A13D-4F9E-B5F8-66D2527FC87D} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 		{9F1B487A-C523-447A-B443-80B8111ADD0D} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 		{106D6E0F-2423-4CDE-AAE2-E9554D2440DA} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
+		{7A8CB6F6-B47E-4824-9081-29E369585865} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53BD87AA-5BB1-46FF-B511-D4AB3304C02A}
