@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125_Valid_Palindrome", "125
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "392_Is_Subsequence", "392_Is_Subsequence\392_Is_Subsequence.csproj", "{A409123F-31B6-465E-BB38-FCC4053F2137}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "383_Ransom_Note", "383_Ransom_Note\383_Ransom_Note.csproj", "{FFBEA142-385A-4036-828F-41D34E6E9A08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{A409123F-31B6-465E-BB38-FCC4053F2137}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A409123F-31B6-465E-BB38-FCC4053F2137}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A409123F-31B6-465E-BB38-FCC4053F2137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBEA142-385A-4036-828F-41D34E6E9A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBEA142-385A-4036-828F-41D34E6E9A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBEA142-385A-4036-828F-41D34E6E9A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBEA142-385A-4036-828F-41D34E6E9A08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,6 +99,7 @@ Global
 		{7A8CB6F6-B47E-4824-9081-29E369585865} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 		{0A860315-2A75-435B-9308-685BDEE6AC6A} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 		{A409123F-31B6-465E-BB38-FCC4053F2137} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
+		{FFBEA142-385A-4036-828F-41D34E6E9A08} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53BD87AA-5BB1-46FF-B511-D4AB3304C02A}
