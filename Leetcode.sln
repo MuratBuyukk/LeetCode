@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "205_Isomorphic Strings", "2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "290_Word_Pattern", "290_Word_Pattern\290_Word_Pattern.csproj", "{74E8F0CD-9EFC-43FE-95F3-2D960587F3F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "242_Valid_Anagram", "242_Valid_Anagram\242_Valid_Anagram.csproj", "{A3A92BD4-4485-42E2-9D58-EB51E872A1DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,10 @@ Global
 		{74E8F0CD-9EFC-43FE-95F3-2D960587F3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74E8F0CD-9EFC-43FE-95F3-2D960587F3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74E8F0CD-9EFC-43FE-95F3-2D960587F3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A92BD4-4485-42E2-9D58-EB51E872A1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A92BD4-4485-42E2-9D58-EB51E872A1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A92BD4-4485-42E2-9D58-EB51E872A1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A92BD4-4485-42E2-9D58-EB51E872A1DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,6 +120,7 @@ Global
 		{FFBEA142-385A-4036-828F-41D34E6E9A08} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 		{C168310D-D90F-4D41-A9BF-22075EA7ED13} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 		{74E8F0CD-9EFC-43FE-95F3-2D960587F3F2} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
+		{A3A92BD4-4485-42E2-9D58-EB51E872A1DB} = {46EEABBC-A2F7-41A2-B48E-C98231972D6D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53BD87AA-5BB1-46FF-B511-D4AB3304C02A}
