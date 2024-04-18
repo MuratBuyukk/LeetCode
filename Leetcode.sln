@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "202_HappyNumber", "TopInter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "049_GroupAnagrams", "TopInterview150\049_GroupAnagrams\049_GroupAnagrams.csproj", "{8FFCD9C6-43A2-4795-922C-D789CF1CEE7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "128_LongestConsecutiveSequence", "TopInterview150\128_LongestConsecutiveSequence\128_LongestConsecutiveSequence.csproj", "{BCAFECCC-B377-434D-B38A-611F0460DE99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{8FFCD9C6-43A2-4795-922C-D789CF1CEE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FFCD9C6-43A2-4795-922C-D789CF1CEE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FFCD9C6-43A2-4795-922C-D789CF1CEE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCAFECCC-B377-434D-B38A-611F0460DE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCAFECCC-B377-434D-B38A-611F0460DE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCAFECCC-B377-434D-B38A-611F0460DE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCAFECCC-B377-434D-B38A-611F0460DE99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -149,6 +155,7 @@ Global
 		{00252512-9182-4359-B0E5-C88D74C05516} = {2E76A975-96E7-41F8-8DBD-960D6F8C7BB5}
 		{EB6A1B6D-AA8C-4334-84CB-97A02F7326B6} = {2E76A975-96E7-41F8-8DBD-960D6F8C7BB5}
 		{8FFCD9C6-43A2-4795-922C-D789CF1CEE7C} = {2E76A975-96E7-41F8-8DBD-960D6F8C7BB5}
+		{BCAFECCC-B377-434D-B38A-611F0460DE99} = {2E76A975-96E7-41F8-8DBD-960D6F8C7BB5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53BD87AA-5BB1-46FF-B511-D4AB3304C02A}
