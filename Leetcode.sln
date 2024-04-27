@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "189_RotateArray", "TopInter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "122_BestimeToBuyAndSellStockII", "TopInterview150\122_BestimeToBuyAndSellStockII\122_BestimeToBuyAndSellStockII.csproj", "{3D72A749-3E8E-4B12-A0BE-19A32D7989F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "055_JumpGame", "TopInterview150\055_JumpGame\055_JumpGame.csproj", "{30664F2B-E7CB-4299-A097-F7249A63D38C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +151,10 @@ Global
 		{3D72A749-3E8E-4B12-A0BE-19A32D7989F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D72A749-3E8E-4B12-A0BE-19A32D7989F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D72A749-3E8E-4B12-A0BE-19A32D7989F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30664F2B-E7CB-4299-A097-F7249A63D38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30664F2B-E7CB-4299-A097-F7249A63D38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30664F2B-E7CB-4299-A097-F7249A63D38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30664F2B-E7CB-4299-A097-F7249A63D38C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -177,6 +183,7 @@ Global
 		{79B44647-EE58-4CE9-BE3F-860474E4761C} = {2E76A975-96E7-41F8-8DBD-960D6F8C7BB5}
 		{E8F1494B-F748-4983-9701-B6AA2510AE50} = {2E76A975-96E7-41F8-8DBD-960D6F8C7BB5}
 		{3D72A749-3E8E-4B12-A0BE-19A32D7989F6} = {2E76A975-96E7-41F8-8DBD-960D6F8C7BB5}
+		{30664F2B-E7CB-4299-A097-F7249A63D38C} = {2E76A975-96E7-41F8-8DBD-960D6F8C7BB5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53BD87AA-5BB1-46FF-B511-D4AB3304C02A}
